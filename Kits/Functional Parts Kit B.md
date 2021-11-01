@@ -20,3 +20,7 @@ packed with grease and already primed (burn in cycle) for a period of 10 hours o
 truns the gearboxes at different speeds and angles simulating the printer movements
 
 ![image](https://user-images.githubusercontent.com/76037248/139697422-7362e540-0b9f-491f-8126-2f15770121d2.png)
+
+![image](https://user-images.githubusercontent.com/76037248/139727870-ca01b161-18e0-40c9-a073-9c0e1c985a72.png)
+
+![image](https://user-images.githubusercontent.com/76037248/139727924-f8634167-a0c3-4cd5-ba5d-416f5db73147.png)
