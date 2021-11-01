@@ -7,6 +7,7 @@ This Kit includes:
 - Klicky Probe and the required mount parts
 - Magnets
 - OMRON D2F5 Microswitch
+- Cable 20 cm
 
 In more details please see herafter a list of the parts 
 
