@@ -52,7 +52,7 @@ This Hot End allows to print materials which require sustained cooling like e.g.
 ![image](https://user-images.githubusercontent.com/76037248/139678814-4409623c-6d2c-4358-a340-c7546eebcceb.png)
 ![image](https://user-images.githubusercontent.com/76037248/139678828-2cf2785a-5db2-41c7-b593-5785bb544d21.png)
 
-## 7. [Never-More recirculating air filter]()
+## 7. [Never-More Micro V5 recirculating air filter](https://github.com/nevermore3d/Nevermore_Micro)
 Back blanking plate is used instead of the exhaust filter housing if you are using a nevermore filter instead.
 
 ![image](https://user-images.githubusercontent.com/76037248/139678849-c4f24734-be1c-4843-ae51-0bdf71aaf6a6.png)
