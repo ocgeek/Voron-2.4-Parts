@@ -67,3 +67,5 @@ This is not yet officially released design to the general Voron Discord communit
 
 ![image](https://user-images.githubusercontent.com/76037248/139732952-3a63194a-d049-4d05-bd1f-44ed0414a78a.png)
 
+![image](https://user-images.githubusercontent.com/76037248/139733122-b2ff123f-bce7-403d-a49b-27a43211d5d1.png)
+
