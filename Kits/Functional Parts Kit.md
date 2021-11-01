@@ -1,4 +1,7 @@
-# Functional parts kit include the following main parts
+# Functional parts kit
+
+This KIT includes the following main parts:
+
 - A and B Drive Frames with the Pin Mod
 - AB (aka XY) motion related Parts with Pin, MGN-12 and Spherical Bearings Mods 
 - Z related motion related parts with Spherical Bearings Mod
