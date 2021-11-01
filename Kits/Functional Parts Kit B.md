@@ -15,7 +15,8 @@ In more details please see herafter a list of the parts including also HW parts.
 The KIT includes the HW Level 1 parts
 while other HW Levels parts which are listed are optional 
 
-Please note that the Z direct drives come already assempbled with all their parts, packed in grease 
-and primed (read already burned in) for a period of 10 hours over a specific bench
+**Please note** The Z direct drives come already assempbled with all their parts including stepper motors
+packed with grease and already primed (burn in cycle) for a period of 10 hours over a specific bench which
+truns the gearboxes at different speeds and angles simulating the printer movements
 
-![image](https://user-images.githubusercontent.com/76037248/139686900-5887a114-e448-494d-9445-5f930668b091.png)
+![image](https://user-images.githubusercontent.com/76037248/139697422-7362e540-0b9f-491f-8126-2f15770121d2.png)
