@@ -7,8 +7,8 @@ This is an alternative KIT which include special Z-Drives (which are yet to be r
 - Z direct Drives with planetary gearbox 
 - Z related motion related parts with Spherical Bearings Mod
 - Tool Head parts based on AB-BN 30, Galileo ClockWork and MGN-12 Mod
-- Functional Skirt parts
-- Various parts which are functional in nature
+- Skirt parts which are functional
+- Various parts which are functional
 
 In more details please see herafter a list of the parts including also HW parts.
 
