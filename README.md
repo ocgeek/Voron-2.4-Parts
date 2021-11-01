@@ -47,7 +47,7 @@ Microswitch based inductive probe replacement which I did personally refined the
 ![image](https://user-images.githubusercontent.com/76037248/139678767-3f066687-78da-4fe5-a770-eadb8bbc790a.png)
 ![image](https://user-images.githubusercontent.com/76037248/139678788-9ff89a93-a077-49db-992e-488ebc24c8fd.png)
 
-## 6. [AB-BN 30 Hot-End](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN)
+## 6. [AB-BN 30 Tool Head](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN)
 This is replacement to the stock Afterburner which hosts a larger part cooling fan (5015 blower fan)
 This Hot End allows to print materials which require sustained cooling like e.g. PLA 
 
