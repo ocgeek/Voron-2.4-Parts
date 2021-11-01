@@ -10,9 +10,11 @@ Here are some KITS to highlight
 - Purge Bucket with nozzle scrub
 - Electronic Bay Skirts
 
-In more details please see herafter a list of each complementary KIT.
+In more details please see herafter a list of each complementary KIT 
+The enclosure parts listed are tuned on my own panels and foam stripes thickness (i use 4mm thick policarbonate panels with 3mm thick foam)
+Different thickness are possible.
 
-The KIT(s) include the HW Level 1 parts
+The KIT(s) include the HW Level 1 parts where applicable
 while other HW Levels parts which are listed are optional 
 
 ![image](https://user-images.githubusercontent.com/76037248/139701019-01320a48-7012-4c14-8092-c6a9b7f5829e.png)
