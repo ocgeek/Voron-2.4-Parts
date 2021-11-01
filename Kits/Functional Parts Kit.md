@@ -1,11 +1,11 @@
 # Functional parts kit include the following main parts
-- AB-Drive Frames with Pin Mod
-- AB-Motion parts with Pin Mod
-- Z-Motion parts with Spherical joints and Pin Mod
+- A and B Drive Frames with the Pin Mod
+- AB (aka XY) motion related Parts with Pin, MGN-12 and Spherical Bearings Mods 
+- Z related motion related parts with Spherical Bearings Mod
 - Z-Drives with Tensioner Mod
-- Hot End based on AB-BN 30
-- Functional Skirt (power)
-- Various parts
+- Hot End parts based on AB-BN 30 and MGN12 Mod
+- Functional Skirt parts
+- Various parts which are functional in nature
 
 In more details this a list of the parts 
 
