@@ -7,7 +7,7 @@ This KIT includes the following main parts:
 - Z-Drives with Tensioner Mod
 - Z related motion related parts with Spherical Bearings Mod
 - Tool Head parts based on AB-BN30, Galileo Clockwork and MGN12 Mod
-- Functional Skirt parts
+- Skirt parts which are functional
 - Various parts which are functional in nature
 
 In more details please see herafter a list of the parts including also HW parts.
