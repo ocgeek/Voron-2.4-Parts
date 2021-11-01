@@ -7,8 +7,11 @@
 - Functional Skirt (power)
 - Various parts
 
-
 In more details this a list of the parts 
 
-![image](https://user-images.githubusercontent.com/76037248/139683509-5e969a2e-d353-4270-a24c-745b930ecb0c.png)
+HW parts are also listed
+The KIT includes HW Level 1 parts
+The other HW parts listed are optional 
+
+![image](https://user-images.githubusercontent.com/76037248/139686900-5887a114-e448-494d-9445-5f930668b091.png)
 
