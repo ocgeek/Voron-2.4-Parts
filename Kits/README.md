@@ -33,3 +33,6 @@ It's worth nothing to say that obviously all parts are printed according to Voro
 ..though i did print all the parts for the two Voron 2.4-300 printers i now own and a good number of which i did created myself with Fusion360. 
 I contributed to make the Kiicky probe a better probe by amended the dock and the probe itself, i amended the parts for the Planetary Z-Drives..
 ...so my parts may not be aesthetical perfection (though they look good) but my printers are still into one piece :)
+
+![image](https://user-images.githubusercontent.com/76037248/139731561-a031d542-27cd-43ee-81d8-d84842f9b0d9.png)
+
