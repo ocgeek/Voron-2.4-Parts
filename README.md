@@ -41,18 +41,18 @@ Obviously this MOD requires that an MGN-12H linear rail and carriage is installe
 ![image](https://user-images.githubusercontent.com/76037248/139678717-1af88849-ff51-43b7-8486-a1e0ac1cd63e.png)
 ![image](https://user-images.githubusercontent.com/76037248/139678739-55e4140c-f805-46a6-a1d6-cf0ba76232f2.png)
 
-## 5. [Magnetically attachable Z-Probe (aka Klicky probe)](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe)
-Microswitch based inductive probe replacement which I did personally refined the design of to allow better attach/detach robustness and support tilted gantry scenarios
-
-![image](https://user-images.githubusercontent.com/76037248/139678767-3f066687-78da-4fe5-a770-eadb8bbc790a.png)
-![image](https://user-images.githubusercontent.com/76037248/139678788-9ff89a93-a077-49db-992e-488ebc24c8fd.png)
-
-## 6. [AB-BN 30 Tool Head](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN)
+## 5. [AB-BN 30 Tool Head](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN)
 This is replacement to the stock Afterburner which hosts a larger part cooling fan (5015 blower fan)
 This Hot End allows to print materials which require sustained cooling like e.g. PLA 
 
 ![image](https://user-images.githubusercontent.com/76037248/139678814-4409623c-6d2c-4358-a340-c7546eebcceb.png)
 ![image](https://user-images.githubusercontent.com/76037248/139678828-2cf2785a-5db2-41c7-b593-5785bb544d21.png)
+
+## 6. [Magnetically attachable Z-Probe (aka Klicky probe)](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe)
+Microswitch based inductive probe replacement which I did personally refined the design of to allow better attach/detach robustness and support tilted gantry scenarios
+
+![image](https://user-images.githubusercontent.com/76037248/139678767-3f066687-78da-4fe5-a770-eadb8bbc790a.png)
+![image](https://user-images.githubusercontent.com/76037248/139678788-9ff89a93-a077-49db-992e-488ebc24c8fd.png)
 
 ## 7. [Never-More Micro V5 recirculating air filter](https://github.com/nevermore3d/Nevermore_Micro)
 Back blanking plate is used instead of the exhaust filter housing if you are using a nevermore filter instead.
@@ -65,4 +65,5 @@ Back blanking plate is used instead of the exhaust filter housing if you are usi
 This is not a MOD but rather a different Z-Drive design. It does not transmit movement by means of large pulley and belt but it direct drives the pulleys via a planetary gearbox between the stepper motor and the pulley shaft. It is exactly what happens in a smaller scale in the well-known Galileo extruder. This planeray gear setup is in fact a Galileo Galilei design.
 This is not yet officially released design to the general Voron Discord community and as such no questions can be asked by users which have not a serial already nor it can be discussed in public channels. That said I moved both my two printers to these drives… and as I also use a Galileo extruder, I decided to name my Voron as “Voron Galileo” 😊
 
+![image](https://user-images.githubusercontent.com/76037248/139732952-3a63194a-d049-4d05-bd1f-44ed0414a78a.png)
 
