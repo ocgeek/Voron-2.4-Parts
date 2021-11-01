@@ -10,11 +10,10 @@ This KIT includes the following main parts:
 - Functional Skirt parts
 - Various parts which are functional in nature
 
-In more details this a list of the parts 
+In more details please see herafter a list of the parts including also HW parts.
 
-HW parts are also listed
-The KIT includes HW Level 1 parts
-The other HW parts listed are optional 
+The KIT includes the HW Level 1 parts
+while other HW Levels parts which are listed are optional 
 
 ![image](https://user-images.githubusercontent.com/76037248/139686900-5887a114-e448-494d-9445-5f930668b091.png)
 
