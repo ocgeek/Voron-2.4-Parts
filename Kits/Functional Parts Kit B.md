@@ -6,7 +6,7 @@ This is an alternative KIT which include special Z-Drives (which are yet to be r
 - AB (aka XY) motion related Parts with Pin, MGN-12 and Spherical Bearings Mods 
 - Z direct Drives with planetary gearbox 
 - Z related motion related parts with Spherical Bearings Mod
-- Hot End parts based on AB-BN 30 and MGN12 Mod
+- Tool Head parts based on AB-BN 30, Galileo ClockWork and MGN-12 Mod
 - Functional Skirt parts
 - Various parts which are functional in nature
 
