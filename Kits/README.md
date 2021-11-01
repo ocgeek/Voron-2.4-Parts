@@ -15,7 +15,15 @@ This is what i use for myself and i print parts with
 The Accent colours are nice and vivid (more than e.g. eSun ABS which tend to be a bit washed out IMHO) and they are consistent in colour
 Also the accent colours are RAL code referenced
 
-3D Jake NiceABS comes in (a nice matte) Black (main colour), Yellow, Green, Red, Orange and Blue (my favourite) 
+3D Jake NiceABS comes in different colours:
+- **Black** (matte real Black) RAL 9017
+- **Yellow** RAL 1023
+- **Orange** RAL 2008
+- **Red** RAL 3020
+- **Blue** RAL 5002 (my favourite)
+- **Green** RAL 6018
+- **Bronze** RAL 1036
+- ...
 
 ## Print Settings
 
