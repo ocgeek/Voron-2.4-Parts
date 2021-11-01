@@ -15,3 +15,4 @@ In more details please see herafter a list of each complementary KIT.
 The KIT(s) include the HW Level 1 parts
 while other HW Levels parts which are listed are optional 
 
+![image](https://user-images.githubusercontent.com/76037248/139701019-01320a48-7012-4c14-8092-c6a9b7f5829e.png)
