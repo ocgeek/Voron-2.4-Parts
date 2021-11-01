@@ -1,6 +1,6 @@
 # Voron-2.4-Parts
 
-Respect to the standard Voron 2.4 parts the ones which are listed in this repository include some printer cinematics and functional modifications (aka MOD)
+Respect to the standard [Voron 2.4 parts](https://github.com/VoronDesign/Voron-2) the ones which are listed in this repository include some printer cinematics and functional modifications (aka MOD)
 I did implement these in my two Voron V2.4-300 printers and I personally think those are worth installing in a build, even a new one.
 
 This is one of my printers during its assembly phase which is using those MODs as a reference
