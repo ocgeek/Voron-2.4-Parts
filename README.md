@@ -7,7 +7,9 @@ This is one of my printers during its assembly phase which is using those MODs a
 
 ![image](https://user-images.githubusercontent.com/76037248/139673867-772d6020-2921-4a36-a244-ae9941130e27.png)
 
-Here is a quick description of the MOD(s), their purpose and a links (in the titles) to the specific repository in case you would look to read more about each
+Here is a quick description of each MOD, their purpose in short and a links (in the title) to the specific repository, in case you would like to read more about each one.
+Some MOD(s) have interdependency to each other like the Spherical Z Joints do require specific XY joints and Idlers parts which in turn are specific beeing pinned
+If you have questions or are in doubt you can reach me via a direct message in the [Voron Discord](https://discord.com/channels/460117602945990666/869236671554682990)
 
 ## 1. [Braced motor tensioner for Standard BOM Z drives](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod)
 This MOD Improves the steadiness of the NEMA motors in respect to the standard Z-Drives and allows a better regulation of the transmission pulley.
