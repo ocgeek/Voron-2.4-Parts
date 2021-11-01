@@ -14,3 +14,4 @@ In more details please see herafter a list of the parts
 
 ![image](https://user-images.githubusercontent.com/76037248/139715400-fecb3e92-522e-4165-b44f-5d544ce6176b.png)
 
+![image](https://user-images.githubusercontent.com/76037248/139715742-7ff8ca88-991e-4661-9d21-d27bd805d86d.png)
