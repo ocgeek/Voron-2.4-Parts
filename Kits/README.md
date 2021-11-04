@@ -34,5 +34,5 @@ It's worth nothing to say that obviously all parts are printed according to Voro
 I contributed to make the Kiicky probe a better probe by amended the dock and the probe itself, i amended the parts for the Planetary Z-Drives..
 ...so my parts may not be aesthetical perfection (though they look good) but my printers are still into one piece :)
 
-![image](https://user-images.githubusercontent.com/76037248/139731561-a031d542-27cd-43ee-81d8-d84842f9b0d9.png)
+![image](https://user-images.githubusercontent.com/76037248/140387667-7aee3591-3cd3-4a2d-9e66-df474c0b6707.png)
 
