@@ -36,3 +36,8 @@ I contributed to make the Kiicky probe a better probe by amended the dock and th
 
 ![image](https://user-images.githubusercontent.com/76037248/140387667-7aee3591-3cd3-4a2d-9e66-df474c0b6707.png)
 
+## Printed Parts Pictures
+
+I uploaded some pictures of [printed parts in here](https://photos.app.goo.gl/cVB4ZQonY7XALUsVA)
+
+
