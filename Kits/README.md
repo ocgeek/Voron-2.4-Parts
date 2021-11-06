@@ -25,19 +25,19 @@ Also the accent colours are RAL code referenced
 - **Bronze** RAL 1036
 - ...
 
+![image](https://user-images.githubusercontent.com/76037248/140387667-7aee3591-3cd3-4a2d-9e66-df474c0b6707.png)
+
 ## Print Settings
 
-It's worth nothing to say that obviously all parts are printed according to Voron settings
-
-**Note** I'm not part nor affiliated with PIF program...
-..though i did print all the parts for the two Voron 2.4-300 printers i now own and a good number of which i did created myself with Fusion360. 
-I contributed to make the Kiicky probe a better probe by amended the dock and the probe itself, i amended the parts for the Planetary Z-Drives..
-...so my parts may not be aesthetical perfection (though they look good) but my printers are still into one piece :)
-
-![image](https://user-images.githubusercontent.com/76037248/140387667-7aee3591-3cd3-4a2d-9e66-df474c0b6707.png)
+It's worth nothing to say that obviously all parts are printed according to Voron design specifications (4 Perimeters, 40% Infill, 5 Solid layers top and bottom)
 
 ## Printed Parts Pictures
 
 I uploaded some pictures of [printed parts in here](https://photos.app.goo.gl/cVB4ZQonY7XALUsVA)
 
 
+
+**Note** I'm not part nor affiliated with PIF program...
+..though i did print all the parts for my own two Voron 2.4-300 printers i now own and a good number of which i did created myself with Fusion360. 
+I contributed to make the Kiicky probe a better probe by amending the design of the dock and the probe itself, i amended the parts for the Planetary Z-Drives..
+...so my parts may occasionaly have minor aesthetical imperfections (though they look good) but my printers are still into one piece :)
