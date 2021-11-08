@@ -15,6 +15,6 @@ In more details please see herafter a list of the parts including also HW parts.
 The KIT includes the HW Level 1 parts
 while other HW Levels parts which are listed are optional 
 
-![image](https://user-images.githubusercontent.com/76037248/139686900-5887a114-e448-494d-9445-5f930668b091.png)
+![image](https://user-images.githubusercontent.com/76037248/140765754-ebdc0d34-50b1-471a-8858-216b67ed2792.png)
 
 ![image](https://user-images.githubusercontent.com/76037248/139716720-83c7879f-043d-4811-908e-541834e97a72.png)
